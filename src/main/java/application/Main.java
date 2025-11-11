@@ -23,6 +23,10 @@ public class Main {
             "Ciclano", "1343234567", "Novo Teste", 2);
 
         objPriorizavel.definirPrioridade(6);
+
+        objPriorizavel = new NotificationEmail("Beltrano", destinatario"olá mundo",3);
+
+        objPriorizavel
         
     }
 }
